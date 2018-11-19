@@ -1,0 +1,38 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+suitEN,,,2018-11-06 10:46:23,2018-11-06 10:46:25,1.586s,PASSED
+,,,,,,
+Test Cases/test1byEytan,,,2018-11-06 10:46:24,2018-11-06 10:46:25,0.519s,PASSED
+Statement - println(webs),,,2018-11-06 10:46:25,2018-11-06 10:46:25,0.011s,PASSED
+,,,,,,
+Test Cases/test1byEytan,,,2018-11-06 10:46:25,2018-11-06 10:46:25,0.014s,PASSED
+Statement - println(webs),,,2018-11-06 10:46:25,2018-11-06 10:46:25,0.001s,PASSED
+,,,,,,
+Test Cases/test1byEytan,,,2018-11-06 10:46:25,2018-11-06 10:46:25,0.013s,PASSED
+Statement - println(webs),,,2018-11-06 10:46:25,2018-11-06 10:46:25,0.001s,PASSED
+,,,,,,
+Test Cases/test1byEytan,,,2018-11-06 10:46:25,2018-11-06 10:46:25,0.013s,PASSED
+Statement - println(webs),,,2018-11-06 10:46:25,2018-11-06 10:46:25,0.002s,PASSED
+,,,,,,
+Test Cases/test1byEytan,,,2018-11-06 10:46:25,2018-11-06 10:46:25,0.018s,PASSED
+Statement - println(webs),,,2018-11-06 10:46:25,2018-11-06 10:46:25,0.006s,PASSED
+,,,,,,
+Test Cases/test1byEytan,,,2018-11-06 10:46:25,2018-11-06 10:46:25,0.010s,PASSED
+Statement - println(webs),,,2018-11-06 10:46:25,2018-11-06 10:46:25,0.001s,PASSED
+,,,,,,
+Test Cases/test1byEytan,,,2018-11-06 10:46:25,2018-11-06 10:46:25,0.013s,PASSED
+Statement - println(webs),,,2018-11-06 10:46:25,2018-11-06 10:46:25,0.002s,PASSED
+,,,,,,
+Test Cases/test1byEytan,,,2018-11-06 10:46:25,2018-11-06 10:46:25,0.012s,PASSED
+Statement - println(webs),,,2018-11-06 10:46:25,2018-11-06 10:46:25,0.002s,PASSED
+,,,,,,
+Test Cases/test1byEytan,,,2018-11-06 10:46:25,2018-11-06 10:46:25,0.012s,PASSED
+Statement - println(webs),,,2018-11-06 10:46:25,2018-11-06 10:46:25,0.001s,PASSED
+,,,,,,
+Test Cases/test1byEytan,,,2018-11-06 10:46:25,2018-11-06 10:46:25,0.010s,PASSED
+Statement - println(webs),,,2018-11-06 10:46:25,2018-11-06 10:46:25,0.001s,PASSED
+,,,,,,
+Test Cases/test1byEytan,,,2018-11-06 10:46:25,2018-11-06 10:46:25,0.011s,PASSED
+Statement - println(webs),,,2018-11-06 10:46:25,2018-11-06 10:46:25,0.003s,PASSED
+,,,,,,
+Test Cases/test1byEytan,,,2018-11-06 10:46:25,2018-11-06 10:46:25,0.010s,PASSED
+Statement - println(webs),,,2018-11-06 10:46:25,2018-11-06 10:46:25,0.001s,PASSED

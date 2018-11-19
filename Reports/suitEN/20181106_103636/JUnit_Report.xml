@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="suitEN" time="58" tests="2" failures="0" errors="0">
+   <testsuite name="suitEN" tests="2" failures="0" errors="0" time="58" timestamp="2018-11-06 10:36:43" hostname="enakache - ip-10-0-11-86.ap-southeast-2.compute.internal" id="Test Suites/suitEN">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/enakache/git/autoUI/Reports/suitEN/20181106_103636"/>
+         <property name="logFiles" value="/Users/enakache/git/autoUI/Reports/suitEN/20181106_103636/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="enakache - ip-10-0-11-86.ap-southeast-2.compute.internal"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="5.8.5.1"/>
+         <property name="browser" value="Firefox 62.0"/>
+         <property name="hostAddress" value="10.0.11.86"/>
+         <property name="sessionId" value="e9d9a9ae-a5ae-9c47-8532-673d9d79f767"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/test1byEytan" classname="Test Cases/test1byEytan" status="PASSED">
+         <system-out><![CDATA[2018-11-06 10:36:44 - [TEST_CASE][PASSED] - Test Cases/test1byEytan: Test Cases/test1byEytan
+
+2018-11-06 10:36:45 - [TEST_STEP][PASSED] - Statement - println("name"): null
+
+2018-11-06 10:36:45 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'https://www.youtube.com/watch?v=tu5Zc89w6oQ'
+
+2018-11-06 10:37:10 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.youtube.com/watch?v=tu5Zc89w6oQ']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test1byEytan" classname="Test Cases/test1byEytan" status="PASSED">
+         <system-out><![CDATA[2018-11-06 10:37:10 - [TEST_CASE][PASSED] - Test Cases/test1byEytan: Test Cases/test1byEytan
+
+2018-11-06 10:37:10 - [TEST_STEP][PASSED] - Statement - println("name"): null
+
+2018-11-06 10:37:10 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'https://eytannakache.atlassian.net/wiki/spaces/TA/overview'
+
+2018-11-06 10:37:10 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-11-06 10:37:42 - [MESSAGE][PASSED] - Browser is opened with url: 'https://eytannakache.atlassian.net/wiki/spaces/TA/overview']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test1byEytan" classname="Test Cases/test1byEytan" status="INCOMPLETE">
+         <system-out><![CDATA[2018-11-06 10:37:42 - [TEST_CASE][INCOMPLETE] - Test Cases/test1byEytan: null
+
+2018-11-06 10:37:42 - [TEST_STEP][PASSED] - Statement - println("name"): null
+
+2018-11-06 10:37:42 - [TEST_STEP][INCOMPLETE] - openBrowser: A browser is already opened. Closing browser and opening a new one
+
+2018-11-06 10:37:42 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one]]></system-out>
+         <system-err><![CDATA[2018-11-06 10:37:42 - [TEST_CASE][INCOMPLETE] - Test Cases/test1byEytan: null]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-11-06 10:36:43 - [TEST_SUITE][INCOMPLETE] - suitEN: null]]></system-out>
+      <system-err><![CDATA[2018-11-06 10:36:43 - [TEST_SUITE][INCOMPLETE] - suitEN: null]]></system-err>
+   </testsuite>
+</testsuites>

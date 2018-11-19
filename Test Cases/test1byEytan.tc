@@ -5,4 +5,11 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>aef2a9e4-9b25-45d4-8684-44c2724da9fd</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b2c32439-4d71-4d35-a763-e7c10b1457d0</id>
+      <masked>false</masked>
+      <name>webs</name>
+   </variable>
 </TestCaseEntity>

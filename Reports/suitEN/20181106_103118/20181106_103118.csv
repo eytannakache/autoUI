@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+suitEN,,,2018-11-06 10:31:25,2018-11-06 10:31:29,4.580s,ERROR
+,,,,,,
+Test Cases/test1byEytan,,,2018-11-06 10:31:26,2018-11-06 10:31:29,3.099s,ERROR
+"Statement - println(card1[[1, 1]])",,,2018-11-06 10:31:28,2018-11-06 10:31:29,0.134s,PASSED
+,,,,,,
+Test Cases/test1byEytan,,,2018-11-06 10:31:29,2018-11-06 10:31:29,0.105s,ERROR
+"Statement - println(card1[[1, 1]])",,,2018-11-06 10:31:29,2018-11-06 10:31:29,0.004s,PASSED
+,,,,,,
+Test Cases/test1byEytan,,,2018-11-06 10:31:29,2018-11-06 10:31:29,0.126s,ERROR
+"Statement - println(card1[[1, 1]])",,,2018-11-06 10:31:29,2018-11-06 10:31:29,0.001s,PASSED
+,,,,,,
+Test Cases/test1byEytan,,,2018-11-06 10:31:29,2018-11-06 10:31:29,0.127s,ERROR
+"Statement - println(card1[[1, 1]])",,,2018-11-06 10:31:29,2018-11-06 10:31:29,0.001s,PASSED

@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+suitEN,Firefox 62.0,,2018-11-06 10:36:43,2018-11-06 10:37:42,58.554s,INCOMPLETE
+,,,,,,
+Test Cases/test1byEytan,Firefox 62.0,,2018-11-06 10:36:44,2018-11-06 10:37:10,26.198s,PASSED
+"Statement - println(""name"")",Firefox 62.0,,2018-11-06 10:36:45,2018-11-06 10:36:45,0.017s,PASSED
+openBrowser,Firefox 62.0,,2018-11-06 10:36:45,2018-11-06 10:37:10,25.651s,PASSED
+,,,,,,
+Test Cases/test1byEytan,Firefox 62.0,,2018-11-06 10:37:10,2018-11-06 10:37:42,31.356s,PASSED
+"Statement - println(""name"")",Firefox 62.0,,2018-11-06 10:37:10,2018-11-06 10:37:10,0.002s,PASSED
+openBrowser,Firefox 62.0,,2018-11-06 10:37:10,2018-11-06 10:37:42,31.303s,PASSED
+,,,,,,
+Test Cases/test1byEytan,Firefox 62.0,,2018-11-06 10:37:42,2018-11-06 10:37:42,0.037s,INCOMPLETE
+"Statement - println(""name"")",Firefox 62.0,,2018-11-06 10:37:42,2018-11-06 10:37:42,0.002s,PASSED
+openBrowser,Firefox 62.0,,2018-11-06 10:37:42,2018-11-06 10:37:42,0.002s,INCOMPLETE
